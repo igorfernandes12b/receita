@@ -137,12 +137,12 @@ tr + tr td {
 }
 
 tr:nth-last-of-type(1) th,
-tr:nth-last-of-type(1) td,{
+tr:nth-last-of-type(1) td{
     padding-bottom: 12px;
 }
 
 tr:nth-last-of-type(4) th,
-tr:nth-last-of-type(4) td,{
+tr:nth-last-of-type(4) td{
 
     border: none;
 }
